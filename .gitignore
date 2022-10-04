@@ -348,3 +348,5 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+VueAPI/App_Data/Download/
+VueAPI/App_Data/Upload/
